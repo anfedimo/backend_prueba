@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.pruebasbgt</groupId>
 	<artifactId>backend_java</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.2.0-SNAPSHOT</version>
 	<name>backend_java</name>
 	<description>Prueba BTG</description>
 	<properties>
